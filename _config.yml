@@ -1,7 +1,5 @@
 title: Subhan Rizwan
-logo: https://github.com/subhan0rizwan/subhan0rizwan.github.io/blob/main/164733332.jfif
-description: text below image
+logo: /assets/164733332.jfif
+description: Data Scientist & BI Analyst
 show_downloads: false
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-so-simple
