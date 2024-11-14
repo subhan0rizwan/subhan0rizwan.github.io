@@ -1,1 +1,4 @@
-# subhan0rizwan.github.io
+# Data Scientist
+
+## Education
+BSc in Software Engineering
